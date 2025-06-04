@@ -23,7 +23,7 @@ It was an exciting and collaborative experience!
 ## 🔗 Team Info
 
 - Group: 11  
-- Project Theme: Analysis, Study andImprovement on MolecularQuantum SimulationProcesses  
+- Project Theme: Analysis, Study and Improvement on MolecularQuantum SimulationProcesses  
 - Members: Pawan Sharma Poudel,Shang-Ling,HungLe Duc Truyen,Kui Yo Chen,Yi-Chen Lu
 
 
