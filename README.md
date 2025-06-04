@@ -3,7 +3,7 @@
 Welcome to our team repository for the NTU-IBMQ Hackathon Taiwan 2024.  
 We are **Group 11**, and this repository includes our work, experiments, and photos from the event.
 
-## 🧠 About Us
+## About Us
 
 We participated in the NTU-IBM Quantum System Users Meeting and Qiskit Hackathon 2024, working on a quantum project over the course of the event.  
 It was an exciting and collaborative experience!
